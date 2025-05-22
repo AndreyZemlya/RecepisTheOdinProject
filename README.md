@@ -1,0 +1,1 @@
+This is website I created on my own on assignment from The Odin Project. I have ideas on how to improve this website but for now I will be learning and as soon as I learn something I will add it to this website to practice. 
